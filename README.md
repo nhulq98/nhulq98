@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Spring framework**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nhu-quang-le-8b80b8149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhu-quang-le-8b80b8149/" height="30" width="40" /></a>
