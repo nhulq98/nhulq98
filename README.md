@@ -1,5 +1,9 @@
+<p>
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/nhulq98/springboot-api">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nhulq98/springboot-api">
+</p>
 <h1 align="center">Hi 👋, I'm Quang Nhu Le</h1>
-<h3 align="center">A passionate backend developer from Quang Ngai</h3>
+<p align="left"> <h3 align="center">A passionate backend developer from Quang Ngai</h3>
 
 - 🔭 I’m currently working on **home**
 
