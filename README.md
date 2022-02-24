@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **home**
 
-- 🌱 I’m currently learning **Spring framework**
+- 🌱 I’m currently learning **Spring framework**, **Blockchain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
