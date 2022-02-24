@@ -24,6 +24,8 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </p>
+ <a target="_blank"> <img src="https://vn-live-01.slatic.net/p/2093ddf6ea8ccc2ce1c2b5625ee92ad4.png" alt="linux" width="40" height="40"/> </p>
+  <a target="_blank"> <img src="https://docs.soliditylang.org/en/v0.8.12/_static/logo.svg" alt="linux" width="40" height="40"/> </p>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhulq98&show_icons=true&locale=en&layout=compact" alt="nhulq98" /></p> -->
 
