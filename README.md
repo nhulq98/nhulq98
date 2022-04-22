@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Quang Nhu Le</h1>
 <p align="left"> <h3 align="center">A passionate backend developer from Quang Ngai</h3>
-<a href="https://linkedin.com/in/nhu-quang-le-8b80b8149/" target="blank">My Resume</a>
+<a href="https://nhulq98.github.io/nhu-resume/" target="blank"><b>My Resume</b></a>
 
 - 🔭 I’m currently working on **home**
 
